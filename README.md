@@ -1,8 +1,6 @@
 # RoboFriend
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+Show casing use off react in a smiple project
  
 ## UX
  
