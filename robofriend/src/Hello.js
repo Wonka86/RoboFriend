@@ -4,11 +4,11 @@ import './Hello.css';
 class Hello extends React.Component {
     render() {
         return (
-        <div class='f1 tc'>
+        <div className='f1 tc'>
         <h1>Hello World</h1>
-        <p>Welcome to React</p>
+        <p>{this.props.greeting}</p>
         </div>
-            )
+            );
     }
 }
 
