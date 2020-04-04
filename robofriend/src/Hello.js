@@ -1,9 +1,10 @@
 import React from 'react';
+import './Hello.css';
 
 class Hello extends React.Component {
     render() {
         return (
-        <div>
+        <div class='f1 tc'>
         <h1>Hello World</h1>
         <p>Welcome to React</p>
         </div>
