@@ -3,6 +3,16 @@
 Show casing use off react in a smiple project
  
 ## UX
+
+cd RoboFriend
+
+npm install
+
+npm install --save-dev tachyons@4.10.0
+
+place in robofriend/node_modules
+
+npm start
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
